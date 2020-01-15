@@ -18,4 +18,6 @@ echo 1 > /proc/sys/net/ipv4/ip_forward
 
 EXAMPLE:
 
-python3 pyarpspoof.py
+You need root privileges to run pyarpspoof so use:
+
+sudo python3 pyarpspoof.py
