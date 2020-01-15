@@ -19,4 +19,5 @@ Usage:
 Run the python script and it asks for a target ip and gateway ip
 incase if you dont know gatewayip use route -n to find out
 EXAMPLE:
+
 python3 pyarpspoof.py
