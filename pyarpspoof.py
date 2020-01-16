@@ -65,6 +65,9 @@ try:
 
 except KeyboardInterrupt:
     print("\n")
+except IndexError:
+    print("\u001b[31;1m[-]\u001b[0m Invalid IP Address")
+    print("\u001b[31;1m[-]\u001b[0m Please check and try again")
 
 
 
