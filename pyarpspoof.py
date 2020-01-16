@@ -47,7 +47,7 @@ def restore(dest_ip, src_ip):
 banner()
 try:
     target_ip = input("Enter the target ip ==>")
-    gateway_ip = input("Enther the gateway ip ==>")
+    gateway_ip = input("Enter the gateway ip ==>")
     sent_packets_count = 0
     try:
         while True:
