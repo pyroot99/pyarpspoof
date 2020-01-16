@@ -34,5 +34,5 @@ sudo python3 pyarpspoof.py
 
  
 Enter the target ip ==>"Target IP"
-Enther the gateway ip ==>"Gateway IP"
+Enter the gateway ip ==>"Gateway IP"
 ```
