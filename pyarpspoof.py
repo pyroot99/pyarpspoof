@@ -14,7 +14,7 @@ def banner():
     ╚═╝        ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝      ╚═════╝  ╚═════╝ ╚═╝     
     \u001b[0m
     """)
-    print("\u001b[31;1m\t\t\t\tcoded by Pyroot\n\n \u001b[0m")
+    print("\u001b[31;1m\t\t\t\tArp Spoofer coded by Pyroot\n\n \u001b[0m")
 
 
 def get_mac(ip):
