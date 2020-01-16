@@ -12,7 +12,7 @@ ARP spoofing is a type of attack in which a malicious actor sends falsified ARP 
 Run the python script and it asks for a target IP and gateway IP
 incase if you don't know gateway IP use route -n to find out
 
-To allow traffic to pass through your Linux machine you need to use the command
+To allow traffic to pass through your Linux machine you need to use the command:
 ```bash
 echo 1 > /proc/sys/net/ipv4/ip_forward
 ```
