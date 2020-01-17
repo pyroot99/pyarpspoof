@@ -9,11 +9,9 @@ ARP spoofing is a type of attack in which a malicious actor sends falsified ARP 
 
 
 ## Usage:
-Run the following command to install required modules
+Run the following command to install required modules:
 ```echo
-
 pip3 install -r requirements.txt
-
 ```
 Run the python script and it asks for a target IP and gateway IP
 incase if you don't know gateway IP use route -n to find out
