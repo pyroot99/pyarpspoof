@@ -20,6 +20,8 @@ echo 1 > /proc/sys/net/ipv4/ip_forward
 
 You need root privileges to run pyarpspoof so use:
 ```bash
+pip3 install -r requirements.txt
+
 sudo python3 pyarpspoof.py
     
     ██████╗ ██╗   ██╗ █████╗ ██████╗ ██████╗ ███████╗██████╗  ██████╗  ██████╗ ███████╗
